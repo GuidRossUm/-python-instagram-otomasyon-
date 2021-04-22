@@ -1,7 +1,7 @@
 
 # Kütüpaneler
-import random
-import numpy
+import random                                                     #pip install random
+import numpy                                                      #pip install numpy
 from selenium import webdriver                                    #pip install selenium
 import time                                                       #pip install times
 from selenium.webdriver.support.ui import WebDriverWait           #pip install selenium-elements
@@ -20,7 +20,7 @@ class InstagramBot:
         self.password = password
         self.person = person
         self.Get_url = 'https://www.instagram.com/'
-        self.driver = webdriver.Chrome("./chromedriver.exe") #cgromedriver indirmek için (https://chromedriver.chromium.org/downloads)
+        self.driver = webdriver.Chrome("./chromedriver.exe") #chromedriver indirmek için (https://chromedriver.chromium.org/downloads)
         self.logindon = False
 
         self.followersCount = 0
