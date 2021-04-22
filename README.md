@@ -20,8 +20,8 @@ instegramBot.py dosyasını cmd konsolu ile çalıştırın.
 [7] Instagram bot takipci atma 
 
 işlemlerinden birini seçerek işlemlere devam ediniz.
-bot takipçi için user ve password dosyalarına gerekli bilgilerigiriniz 
+bot takipçi için user ve password dosyalarına gerekli bilgileri giriniz.
 
-💖 Destek ve İletişim
+💖 Destek ve İletişi
 gmail = karaneyem@gmail.com
 ©️ Furkan Dökme
